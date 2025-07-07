@@ -1,3 +1,3 @@
 # furnarius-rufus
 
-codidos para sintesis de cantos de furnarius rufus
+codigos para sintesis de cantos de furnarius rufus
