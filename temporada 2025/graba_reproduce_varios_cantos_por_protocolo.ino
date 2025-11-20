@@ -43,7 +43,7 @@ constexpr uint8_t CantidadCantos       = 1;  // repeticiones de cada archivo
 constexpr uint8_t DuracionProtocolo    = 6;  // minutos de protocolo
 constexpr uint8_t Descanso             = 21; // minutos de descanso entre protocolos
 
-constexpr uint8_t Volumen        = 25;  // 0–30
+constexpr uint8_t Volumen        = 20;  // 0–30
 constexpr uint8_t NumMaxCantosSD = 6;  // cantidad máxima de archivos en la carpeta
 //========================= CONFIGURACIONES de HARDWARE ========================
 const uint8_t RstPin     = 3;
